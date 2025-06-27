@@ -45,11 +45,12 @@ You can find the dataset in this repository:
 
 👉 [**sample-data-10mins.xlsx**](./sample-data-10mins.xlsx)
 
----Data:
+---Data:<a href="https://github.com/Pallavi92005/chocolate-sales-analysis/blob/main/sample-data-10mins.xlsx">Data</a>
 
 ## 💡 Possible Extensions
 
 - Create visual dashboards using **Tableau**, **Power BI**, or **Plotly Dash**
 - Build sales prediction models using **Machine Learning**
 - Perform seasonal trend analysis and customer segmentation
+- Dasdhboard Interaction:
 
