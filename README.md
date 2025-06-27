@@ -53,4 +53,4 @@ You can find the dataset in this repository:
 - Build sales prediction models using **Machine Learning**
 - Perform seasonal trend analysis and customer segmentation
 - Dasdhboard Interaction:
-
+- <a href ="https://github.com/Pallavi92005/chocolate-sales-analysis/blob/main/Screenshot%202025-06-27%20134258.png">View Dashboard</a>
